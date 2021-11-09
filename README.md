@@ -1,6 +1,9 @@
-# my_app
+# Flutter 'Movie Flash'
 
-A new Flutter project.
+<div style="display:flex;justify-content:center;align-items:center;flex-direction:column;">
+  <h2 style="color:#e4c652">Preview</h2>
+  <img src="./assets/gif/movie_flash.gif" width="400"/>
+</div>
 
 ## Getting Started
 
