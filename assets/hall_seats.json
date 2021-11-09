@@ -1,0 +1,234 @@
+[
+  {
+    "A": {
+      "1": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "2": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "3": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "4": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "5": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      }
+    }
+  },
+  {
+    "B": {
+      "1": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "2": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "3": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "4": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "5": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      }
+    }
+  },
+  {
+    "C": {
+      "1": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "2": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "3": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "4": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "5": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      }
+    }
+  },
+  {
+    "D": {
+      "1": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "2": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "3": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "4": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "5": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      }
+    }
+  },
+  {
+    "E": {
+      "1": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "2": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "3": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "4": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "5": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      }
+    }
+  },
+  {
+    "F": {
+      "1": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "2": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "3": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "4": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "5": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      }
+    }
+  },
+  {
+    "G": {
+      "1": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "2": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "3": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "4": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "5": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      }
+    }
+  },
+  {
+    "H": {
+      "1": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "2": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "3": {
+        "id": null,
+        "available": false,
+        "enabled": false
+      },
+      "4": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      },
+      "5": {
+        "id": null,
+        "available": true,
+        "enabled": false
+      }
+    }
+  }
+]
